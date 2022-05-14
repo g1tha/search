@@ -1,0 +1,10 @@
+#searchContainer {
+    border-radius: 25px;
+    padding: 20px; 
+    width: 200px;
+    height: 15px;  
+}
+
+#searchContainer:hover {
+    box-shadow: 0 .25rem .5rem rgba(0, 0, 0, 0.1);
+}
